@@ -1,2 +1,2 @@
 # DQN-project
-Deep Q network for plating game called Break-out()
+Deep Q network for playing the game called Break-out()
